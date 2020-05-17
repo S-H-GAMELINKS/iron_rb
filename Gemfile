@@ -7,4 +7,4 @@ gem "rake", "~> 12.0"
 gem "minitest", "~> 5.0"
 
 # Using Helix Runtime
-gem "helix_rutime", "~> 0.7"
+gem "helix_runtime", "~> 0.7"
