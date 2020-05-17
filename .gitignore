@@ -7,3 +7,4 @@
 /spec/reports/
 /tmp/
 /target/
+/lib/iron_rb/native.so
