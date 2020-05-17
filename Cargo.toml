@@ -3,7 +3,7 @@ name = "iron_rb"
 version = "0.0.1"
 
 [lib]
-crate-type = ["crylib"]
+crate-type = ["cdylib"]
 
 [dependencies]
 helix = "^0.7"
